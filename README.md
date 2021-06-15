@@ -1,4 +1,4 @@
-# Offensive Email Ehecker :mailbox_with_mail:
+# Offensive Email Checker :mailbox_with_mail:
 Uma ferramenta de envio de emails via CLI com funcionalidade de filtragem de conteúdos ofensivos.
 
 ## Como rodar :rocket:
@@ -24,7 +24,7 @@ Execute com:
 $ python main.py
 ```
 
-### Exemplo do programa
+### Exemplo de execução do programa
 ```
 ❯ python main.py
 
